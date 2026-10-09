@@ -1,0 +1,12 @@
+# V100Auto 运行时产物（由脚本在 C:\ProgramData\V100Auto\ 生成）
+*.log
+
+# 操作系统垃圾文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
